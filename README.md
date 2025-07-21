@@ -1,4 +1,4 @@
-# Hayden Cox | Software Engineer
+<h1 style="align: center;">Hayden Cox | Software Engineer</h1>
 
 > Building secure, scalable solutions with modern technologies.
 
