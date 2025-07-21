@@ -1,4 +1,4 @@
-Hayden Cox | Software Engineer
+# Hayden Cox | Software Engineer
 
 > Building secure, scalable solutions with modern technologies.
 
